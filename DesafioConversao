@@ -20,10 +20,7 @@ public class DesafioConversao {
 		
 		double mediaSalarios = (salarioReal1 + salarioReal2 + salarioReal3)/3;
 		
-		System.out.println(mediaSalarios);
-		
-		
-		
+		System.out.println(mediaSalarios);		
 		
 		entrada.close();
 	}
